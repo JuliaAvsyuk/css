@@ -40,3 +40,8 @@ h5,
 p {
     font-family: Georgia;
 }
+
+.description {
+    color: black;
+    font-family: Arial;
+}
