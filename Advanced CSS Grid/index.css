@@ -17,12 +17,12 @@ h1, h2 {
     text-align: center;
 }
 
-header {
+.header {
     background-color: dodgerblue;
     grid-area: header;
 }
 
-nav {
+.nav {
     background-color: beige;
     grid-area: nav;
 }
