@@ -4,7 +4,7 @@
     width: 500px;
     display: grid;
     grid-template-columns: 25% 25% 2fr 1fr;
-    grid-template-rows: 250px 250px;
+    grid-template-rows: 200px 200px;
     grid-row-gap: 10px;
     grid-column-gap: 15px;
 }
@@ -15,6 +15,7 @@
     border-radius: 5px;
     border: 2px dodgerblue solid;
 }
+
 .a {
     grid-column-start: 1;
     grid-column-end: span 2;
