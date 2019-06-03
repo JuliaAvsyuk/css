@@ -17,7 +17,7 @@ main {
     space-evenly
     space-around
     space-end */
-    align-items: stretch;
+    align-items: start;
     /* start
     center
    stretch
