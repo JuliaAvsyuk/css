@@ -17,6 +17,11 @@ main {
     space-evenly
     space-around
     space-end */
+    align-items: stretch;
+    /* start
+    center
+   stretch
+   end */
 }
 
 h2 {
